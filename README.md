@@ -5,7 +5,8 @@
 
 | Month | Year | Link | 
 | ----------- | -------------- | ---------------- | 
-| February | 2020 | [issues/6#](https://mailchi.mp/identity.foundation/dif-monthly-2) 
+| March | 2020 | [issues/7#](https://mailchi.mp/identity.foundation/dif-monthly-7) 
+| February | 2020 | [issues/6#](https://mailchi.mp/identity.foundation/dif-monthly-6) 
 | January | 2020 | [issues/5#](https://mailchi.mp/identity.foundation/dif-monthly-5) 
 | December | 2019 | [issues/4#](https://mailchi.mp/identity.foundation/dif-monthly-4) 
 | November | 2019 | [issues/3#](https://mailchi.mp/identity.foundation/dif-monthly-3) 
