@@ -38,4 +38,4 @@
 ## Subscribe
 
 [Sign up on our homepage here](https://identity.foundation/)
->_We only contact you once a month with the newsletter, and we never sell or share your data to third parites._
+>_We only contact you once a month with the newsletter, and we never share your data with third parites._
