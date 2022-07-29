@@ -5,7 +5,7 @@
 
 | Month | Year | Link | 
 | ----------- | -------------- | ---------------- |
-| July | 2022 | due out soon |
+| July | 2022 | [Issue 28#](https://blog.identity.foundation/dif-monthly-28/) |
 | June | 2022 | [Issue 27#](https://blog.identity.foundation/dif-monthly-27/) |
 | February | 2022 | [Issue 26#](https://blog.identity.foundation/dif-monthly-26/) |
 | Janhuary | 2022 | [Issue 25#](https://blog.identity.foundation/dif-monthly-25/)
